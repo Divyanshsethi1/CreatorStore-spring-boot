@@ -1,0 +1,15 @@
+target/
+*.class
+.project
+.classpath
+.settings/
+.idea/
+.metadata/
+bin/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
